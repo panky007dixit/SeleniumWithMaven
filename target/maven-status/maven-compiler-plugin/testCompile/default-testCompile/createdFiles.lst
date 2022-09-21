@@ -1,0 +1,6 @@
+stepdefs\RunnerTest.class
+parallel\Parallel1StepDef.class
+parallel\RunnerTest.class
+stepdefs\MyStepdefs.class
+parallel\Parallel2StepDef.class
+stepdefs\LoginStep.class

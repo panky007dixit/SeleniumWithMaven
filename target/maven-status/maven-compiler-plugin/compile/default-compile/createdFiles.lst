@@ -1,0 +1,7 @@
+pages\BasePage.class
+helpers\BrowserStackTest.class
+helpers\Browser.class
+pages\HomePage.class
+helpers\WebDriverFactory.class
+pages\LoginPage.class
+helpers\PropertiesUtil.class

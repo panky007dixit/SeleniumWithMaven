@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0.002716">
+<testcase classname="First feature file" name="Exception Handle Test" time="0.001961">
+<system-out><![CDATA[Given I test exception for 0................................................passed
+And exception is validated successfully.....................................passed
+]]></system-out>
+</testcase>
+<testcase classname="First feature file" name="Exception Handle Test 2" time="0.000755">
+<system-out><![CDATA[Given I test exception for 1................................................passed
+And exception is validated successfully.....................................passed
+]]></system-out>
+</testcase>
+</testsuite>

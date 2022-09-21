@@ -1,0 +1,45 @@
+Employee Number,Member Name,Gender,Father's Name,Disabled Flag,International Worker Flag,Date of Birth,Date of Joining,Mobile Number,Email ID,Past Service,Higher Flag of EPF ,Higher Flag of EPS,Bank Account No.,Bank Name,Branch Name,Address1,Address2,City,District,State,Pincode,Maritial Status,Father/Husband Flag
+1,Sandeep Sharma,M,Naresh Kumar,,,25-11-1980,,,,N,N,R,,,,H.No.200/25,"Bishamber Nagar,Jind",Jind,Jind,Haryana,126101,M,F
+2,Jitender Kumar,M,Jagvir Singh,N,N,16-08-1982,21-08-2012,8929826898,1982jitenderkumar1982@gmail.com,N,N,R,50100171201918,HDFC ,Julana,VPO-Farmana(Khas),Teh- Meham,Rohtak,Rohtak,Haryana,124112,M,F
+3,Promila,F,satyanaryan Hooda,N,N,29-11-1979,26-04-2007,9466564924,promilaolhan@gmail.com,N,N,R,50100171729935,HDFC ,Julana,H.No 1835,Sect-8,Rohtak,Rohtak,Haryana,124001,M,F
+4,Mohan,M,satyanaryan,N,N,31602,28-08-2009,9466839854,sarma.mohansarma21@yahoo.com,N,N,R,65077687046,SBP ,Julana,VPO -Bharo Khera,,Jind,Jind,Haryana,126102,M,F
+5,Jitender Singh,M,Ved Singh,N,N,29587,40767,9466766119,,N,N,R,65167058527,SBP ,Jind,VPO-Kharak Ram Ji,,Jind,Jind,Haryana,126102,M,F
+6,Kavita,F,Ramesh Kumar,N,N,33514,41701,9466251799,rajmalik8612@gmail.com,N,N,R,55148071725,SBP ,Julana,VPO-Ramkali,,Jind,Jind,Haryana,126114,M,F
+7,Meena rani,F,Rajpal Malik,N,N,22-07-1985,27-12-2012,9466561600,chcarjun@gmail.com,N,N,R,55143379621,SBP ,Julana,H.No. 490/37,Julana,Jind,Jind,Haryana,126102,M,F
+8,Vijay Kumar,M,Jagbir Singh,N,N,22-07-1985,27-08-2014,9728842584,vjdehraj1985@gmail.com,N,N,R,65214077660,SBP ,Julana,H.No. 859/15,Pahra Mohalla,Rohtak,Rohtak,Haryana,124001,M,F
+9,Kunj Bihari,M,Babu Ram,N,N,31237,41497,7357543303,dr.kunjsingla@gmail.com,N,N,R,55148074056,SBP ,Julana,H.No 84,"Ward no.9,Old Anaj Mandi julana",Jind,Jind,Haryana,126101,M,F
+10,Vijay Kumar,M,Raghbir Singh,N,N,32425,41497,9996892879,rsvijaysingh88@gmail.com,N,N,R,55148071588,SBP ,Julana,"H.No 68/13,Amar Collany,Malvi Road",Julana,Jind,Jind,Haryana,126101,M,F
+11,Rocky,F,Ram Mehar,N,N,32854,41497,8950143059,mahendiar@gmail.com,N,N,R,65047815428,SBP ,Julana,H .No 100 ward No. 5,Julana,Jind,Jind,Haryana,126101,U,F
+12,Jyoti Rani,F,Omparkash,N,N,25-09-1987,40185,8607682405,,N,N,R,55140623562,SBP ,Julana,Datta,The-Hansi,Hissar,Hissar,Haryana,,M,F
+13,Meena Rani,F,Jai Parkash,N,N,30967,40728,9728566376,meena10121984@gmail.com,N,N,R,55140650289,SBP ,Kilazafergarh,H No. 2594/34 era Apax,Amarit colony,Rohtak,Rohtak,Haryana,124001,M,F
+14,Babita,F,Dalip Singh,N,N,31544,13-08-2009,9812634208,babitaporiya86@gmail.com,N,N,R,65040790575,SBP ,Uchana,VPO- Kilazafergarh,Julana,Jind,Jind,Haryana,126102,M,F
+15,Mamta Rani,F,Dharambir,N,N,14-01-1980,39459,9992322893,,N,N,R,65057330575,SBP ,Julana,VPO- Jhomala,,Jind,Jind,Haryana,126102,M,F
+16,Manisha Devi,F,Ram Chander,N,N,18-09-1983,40057,9896769059,,N,N,R,65055126368,SBP ,Julana,VPO-Budha Khera Lather,,Jind,Jind,Haryana,126102,M,F
+17,Akin,F,Ram Kishan,N,N,31968,25-08-2009,9468105294,akin.lather@gmail.com,N,N,R,65117615910,SBP ,Julana,VPO- desh Khera,,Jind,Jind,Haryana,126102,M,F
+18,Manju devi,F,Ramphal,N,N,31875,20-08-2009,9996554553,,N,N,R,65075713035,SBP ,Julana,VPO- Anupgarh,,Jind,Jind,Haryana,126101,M,F
+19,Kavita,F,Balgeet Singh,N,N,32146,28-12-2011,8901311713,,N,N,R,65168804009,SBP ,Julana,VPO-Bhongra ,,Uchana,Jind,Haryana,126101,M,F
+20,sunil kumari,F,Ranjjha Ram,N,N,22-06-1986,13-08-2009,9896545094,,N,N,R,65067613279,SBP ,Julana,VPO- Desh Khera,,Jind,Jind,Haryana,126102,M,F
+21,Mukesh,F,Kulbir Sigh,N,N,30317,39330,9467062501,,N,N,R,65037773930,SBP ,Julana,H.No.151,ward No. 5,Jind,Jind,Haryana,126102,M,F
+22,laxmi Devi,F,Jati Ram,N,N,27916,36683,9729325935,,N,N,R,55143379542,SBP ,Julana,VPO Budha Khera Lather,,Jind,Jind,Haryana,126101,M,F
+23,puspa khatri,F,Rajkumar,N,N,14-04-1983,39268,8059362436,,N,N,R,65045292340,SBP ,Jind,VPO- Lakhanmajra,,Rohtak,Rohtak,Haryana,124514,M,F
+24,Suman,F,Ranvir,N,N,15-05-1978,39268,9416695420,,N,N,R,55088869572,SBP ,Kilazafergarh,,Durga Colony,Rohtak,Rohtak,Haryana,124001,M,F
+25,Poolpati,F,Dhan singh,N,N,15-08-1970,39268,9813668757,,N,N,R,65037894219,SBP ,Julana,VPO-Akalgarh,,Jind,Jind,Haryana,126102,M,F
+26,Poonam,F,Balbir Singh,N,N,27525,18-11-1998,9466307726,,N,N,R,65014546712,SBP ,Jind,VPO-Makrouli Khourd,,Rohtak,Rohtak,Haryana,124001,M,F
+27,Sushila Devi,F,Ganga Ram,N,N,14-11-1968,39268,9466011168,,N,N,R,55097708761,SBP ,Julana,Ward No-9,"Nehru colony , Julana",jind,Jind,Haryana,126102,M,F
+28,Sharmila devi,F,Raghbir Singh,N,N,25-04-1974,26-10-1998,9466076146,,N,N,R,65013969830,SBP ,Jind,H NO.958/2 Nand Colony,Rohtak,Rohtak,Rohtak,Haryana,124001,M,F
+29,Saroj devi,F,Ram Kishan,N,N,23752,26-10-1998,9996433659,,N,N,R,65013970551,SBP ,Jind,Choturam Nagar Gali No.2 ,"Sukhpura chock, Rohtak",Rohtak,Rohtak,Haryana,124001,M,F
+30,sunita Devi,F,Mange Ram,N,N,39083,39268,9416360484,,N,N,R,65037992748,SBP ,Jind,H.No.3920 Defence Colony,jind,Jind,Jind,Haryana,126101,M,F
+31,Kavita Devi,F,Jeet Ram,N,N,28612,39330,9416533731,,N,N,R,65024279469,SBP ,Jind,VPO- Dhigana,,Jind,Jind,Haryana,126102,M,F
+32,Nirmala Devi,F,Fateh Singh,N,N,28984,24-12-2011,7027812083,,N,N,R,55148018831,SBP ,Jind,VPO-Biroli,Jind,Jind,Jind,Haryana,126102,M,F
+33,Sunita Devi,F,Jai Karan,N,N,27770,39330,9466763415,,N,N,R,65039679629,SBP ,Jind,VPO- Shamlo Kalan,,Jind,Jind,Haryana,126102,M,F
+34,Nirmala Devi,F,Ramphal,N,N,25518,18-11-2005,9728462765,,N,N,R,65013106352,SBP ,Jind,VPO-Karsola,,Jind,Jind,Haryana,126102,M,F
+35,Jantri Devi,F,Banwari Lal,N,N,27244,29-10-1998,9416934030,,N,N,R,65013356187,SBP ,Jind,VPO- Gatauli,,Jind,Jind,Haryana,126102,M,F
+36,Rajbala Rani,F,Ram Kumar,N,N,15-09-1970,26-10-1998,9466690504,,N,N,R,65014797165,SBP ,Jind,VPO-Buwana,,jind,Jind,Haryana,126102,M,F
+37,Santosh Devi,F,Balwan singh,N,N,28069,39330,7357728214,,N,N,R,65039854343,SBP ,Jind,VPO-Shamlo Kurd,,Jind,Jind,Haryana,126102,M,F
+38,Sudesh Kumari ,F,Balwan,N,N,31961,24-06-2009,9729625664,,N,N,R,65062004997,SBP ,Jind,VPO-Anoopgarh,,Jind,Jind,Haryana,126102,M,F
+39,Sudesh Rani,F,Raghbir Singh,N,N,26151,39391,9017619003,,N,N,R,65038065701,SBP ,Julana,H.No. 490/37,Janta Colany,Rohtak,Rohtak,Haryana,124001,M,F
+40,Parmila Kumari,F,Atar Singh,N,N,24-07-1985,39330,9813861925,,N,N,R,65037990092,SBP ,Jind,VPO-Rathal Pogat,,Rohtak,Rohtak,Haryana,124001,M,F
+41,Sheela devi,F,Zora Sigh,N,N,25486,39360,7777047777,,N,N,R,65037990070,SBP ,Jind,VPO- Kharanti,,Jind,Jind,Haryana,126102,M,F
+42,Usha rani,F,Sarup Singh,N,N,27546,26-10-1998,9467752531,,N,N,R,65014589858,SBP ,Julana,VPO-Malvi,,Jind,Jind,Haryana,124102,M,F
+43,Kavita Devi,F,Ramchander,N,N,27-03-1978,39330,9467137492,,N,N,R,65038430299,SBP ,Julana,VPO- Garwali,,Jind,Jind,Haryana,126102,M,F
+44,Payal,F,Karam Singh Lather,N,N,24-10-1989,40969,9468452847,,N,N,R,65167220456,SBP ,Julana,VPO- Nandgarh,,Jind,Jind,Haryana,126102,M,F

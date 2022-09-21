@@ -1,0 +1,4 @@
+PolicyNo|Name|NullColumn|Company|Username|Password|Amount
+103|User1_2||Comp1_2|Uname1_2|Password1_2|10.00
+104|User2_2||Comp2_2|Uname2_2|Password2_2|11.00
+102|User3_2||Comp3_2|Uname3_2|Password3_2|12.00

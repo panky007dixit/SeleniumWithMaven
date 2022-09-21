@@ -1,0 +1,5 @@
+Result
+'Male' from file1 row {101|User1|Uname1|Password1|20.00|Male} not found in File2 at column 6 in row --> 101|User1|Uname1|Password1|20.00|Female
+'20.00' from file1 row {101|User1|Uname1|Password1|20.00|Male} not found in File2 at column 5 in row --> 101|User1|Uname1|Password1|103.00|Female
+'Male' from file1 row {101|User1|Uname1|Password1|20.00|Male} not found in File2 at column 6 in row --> 101|User1|Uname1|Password1|103.00|Female
+Policy 103 not found in File2
